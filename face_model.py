@@ -15,3 +15,4 @@ def build_face_model(input_shape, num_classes):
     ])
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
     return model
+#UnderConstruction
