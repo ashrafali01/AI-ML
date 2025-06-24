@@ -22,3 +22,4 @@ evaluate_model(model, X_test, y_test, class_names)
 
 # 5️⃣ Save final model
 model.save("saved_model/final_face_classifier.h5")
+#taht's not the final one 24thJune
